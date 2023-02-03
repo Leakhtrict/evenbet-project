@@ -1,0 +1,10 @@
+.block2 {
+    color: white;
+    font-size: 36px;
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

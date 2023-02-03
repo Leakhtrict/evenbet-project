@@ -1,3 +1,16 @@
 .App {
-  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 100vw;
+  height: 100vh;
+}
+
+.blocks-wrapper {
+  width: 70%;
+  height: 70%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }

@@ -1,0 +1,9 @@
+.circle {
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    background-color: greenyellow;
+    position: absolute;
+    visibility: hidden;
+    transition: transform ease-in-out 3s;
+}
